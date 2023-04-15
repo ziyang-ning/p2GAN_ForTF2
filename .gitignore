@@ -1,0 +1,8 @@
+**/.DS_Store
+**/.ipynb_checkpoints
+/slides
+/contents
+/books
+vgg16.npy
+/__MACOSX
+*.asv
