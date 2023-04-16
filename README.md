@@ -31,6 +31,8 @@ Import NoteBook: `pip install import-ipynb`
 
 TF_Slim: `pip install --upgrade tf_slim`
 
+You can also use conda install for the commands used above.
+
 Download VGG (second link) in the same directory as everything else:
 https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM
 
