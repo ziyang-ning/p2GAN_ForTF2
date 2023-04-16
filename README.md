@@ -1,4 +1,6 @@
-### UofM EECS 351 p2GAN Implementation
+# UofM EECS 351 p2GAN Implementation
+For Neural Style Transfer: https://github.com/ziyang-ning/GAN_Style_Transfer/tree/main
+
 ## Sources & Authors
 Based on Paper linked: https://arxiv.org/abs/2001.07466 
 
