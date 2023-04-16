@@ -24,6 +24,8 @@ Anaconda TensorFlow 2: `conda install tensorflow-gpu` for Windows
 
 OpenCV2: `pip install opencv-python`
 
+TF_Slim: `pip install --upgrade tf_slim`
+
 For Mac instructions: https://github.com/jeffheaton/t81_558_deep_learning/blob/master/install/tensorflow-install-mac-metal-jan-2023.ipynb
 
 Import NoteBook: `pip install import-ipynb`
