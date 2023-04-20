@@ -4,7 +4,7 @@
 	"export": 1,
 	"save_at": 1,
 	"save_step": 1,
-	"epoch_lim": 3,
+	"epoch_lim": 5,
 	"preview": true,
 	"view_iter": 620,
 	"D":

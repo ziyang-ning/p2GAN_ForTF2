@@ -46,4 +46,29 @@ Run the `render.ipynb` for rendering new images with a specific model
 For more on what the parameters do, please check out the original code repo.
 
 
+# Known Issues
+If you interrupted the Kernel of the `Train.ipynb` file while it was training, 
+and tries to the train code block again, it will show the error below: `ValueError: Variable generator/enc_0_dw/depthwise_weights already exists, disallowed. Did you mean to set reuse=True or reuse=tf.AUTO_REUSE in VarScope?`
+
+To fix this, you just need to restart the Kernel. 
+
+# Training Data
+We have tried training on the "impressionism" artworks from the `Artbench-10` 
+and all the pictures from the `PASCAL VOC 2007`, links are below. If you want to train your own model, 
+you have to have the dataset downloaded yourself too.
+
+`PASCAL VOC 2007`: https://www.kaggle.com/datasets/zaraks/pascal-voc-2007
+
+`Artbench-10`: https://www.kaggle.com/datasets/alexanderliao/artbench10
+
+# Results:
+The output images can be found in the `rendered_images` directory
+
+The saved models can be found in the `available_models` direcotry
+
+
+
+
+
+
 
