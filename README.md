@@ -20,7 +20,7 @@ Compare GAN style transfer with Neural Style Transfer
 Learn TensorFlow and Singal Processing techniques
 
 ## Dependencies
-Anaconda TensorFlow 2: `conda install tensorflow-gpu` for Windows
+TensorFlow 2, instructions: https://www.tensorflow.org/install/pip
 
 OpenCV2: `pip install opencv-python`
 
