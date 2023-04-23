@@ -66,6 +66,10 @@ The output images can be found in the `rendered_images` directory
 
 The saved models can be found in the `available_models` direcotry
 
+![Results1](./README_Pictures/pg1.png)
+![Results2](./README_Pictures/pg2.png)
+![Results3](./README_Pictures/pg3.png)
+![Results4](./README_Pictures/pg4.png)
 
 
 
