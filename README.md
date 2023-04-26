@@ -41,7 +41,25 @@ https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM
 ## How to Use
 Modify the `train.ipynb` for training a new model
 
+more specifically:
+
+-- change the `MODEL_SAVE_PATH` parameter to the folder that you want your model to be saved at
+
+-- change the `STYLE_IMG` parameter to the style desired for your model to transfer other images to
+
+-- change the `TRAINSET_PATH` parameter to the folder that you have all of your training images in, training with around 6-10k images are prefered.
+
+
 Run the `render.ipynb` for rendering new images with a specific model
+
+more specifically:
+
+-- change the `MODEL_SAVE_PATH` parameter to the folder of your model
+
+-- change the `OUT_PATH` parameter to the folder where you want the generated images to be
+
+-- change the `IMGSRC_PATH` parameter to the folder where you have all of your input image to the system, the images that you want to perform the style transfer
+
 
 For more on what the parameters do, please check out the original code repo.
 
