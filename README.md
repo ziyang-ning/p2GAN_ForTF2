@@ -50,6 +50,10 @@ more specifically:
 -- change the `TRAINSET_PATH` parameter to the folder that you have all of your training images in, training with around 6-10k images are prefered.
 
 
+** IMPORTANT ** 
+
+THIS IS HOW YOU CAN TEST THE MODEL WE TRAINED:
+
 Run the `render.ipynb` for rendering new images with a specific model
 
 more specifically:
@@ -59,6 +63,11 @@ more specifically:
 -- change the `OUT_PATH` parameter to the folder where you want the generated images to be
 
 -- change the `IMGSRC_PATH` parameter to the folder where you have all of your input image to the system, the images that you want to perform the style transfer
+
+
+The models that we trained for this project are in the /available_models/ directory, named: `Jason_Test_Model`, `space_2`, `morncolour_whale`, `epch1`, and `anime`
+
+Feel free to choose any of them.
 
 
 For more on what the parameters do, please check out the original code repo.
